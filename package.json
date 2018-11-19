@@ -1,0 +1,32 @@
+{
+  "name": "webbula-node-js-api",
+  "version": "1.0.0",
+  "description": "Email append and data verification SDK",
+  "main": "webbula.js",
+  "scripts": {
+    "test": "src/test/qunit.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasCutting/webbula-node-js-api.git"
+  },
+  "keywords": [
+    "webbula",
+    "data",
+    "quality",
+    "verification",
+    "node",
+    "microservice",
+    "email",
+    "append"
+  ],
+  "author": "Thomas Cutting <thomas@reservetechinc.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasCutting/webbula-node-js-api/issues"
+  },
+  "homepage": "https://github.com/ThomasCutting/webbula-node-js-api#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
